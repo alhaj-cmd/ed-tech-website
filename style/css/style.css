@@ -3,6 +3,11 @@
     color: #289BDE;
     
 }
+body{
+    margin: 0;
+    padding: 0;
+
+}
 .image-h{
     height: 400px;
     background-color: aliceblue;
@@ -38,7 +43,27 @@
     background-color: #F4FAFD;
 }
 .institute-items img{
-    height: 530px;
+    height: 555px;
+    width: 370px;
     
+
+}
+.register-items{
+    background-color: #289BDE;
+    margin-top: 30px;
+    
+}
+.regi-text{
+    margin-top: 10px;
+}
+.regi-btn{
+    text-align: center;
+    margin-top: 30px;
+}
+.students button{
+    margin: 5px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
 
 }
