@@ -67,3 +67,23 @@ body{
     left:50%;
 
 }
+/* .feedback-item{
+    background-image:url('/images/company/company-1.png');
+} */
+
+.trusted img{
+    height: 30px;
+    width: 100px;
+}
+.footer-all{
+    background-color: black;
+    color: white;
+    height: 300px;
+}
+.footer-end{
+   
+   padding: 50px; 
+    
+
+
+}
